@@ -1,1 +1,1 @@
-# buisness-repository
+# business-repository
